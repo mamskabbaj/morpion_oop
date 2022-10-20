@@ -1,0 +1,10 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+ruby '2.7.4'
+gem 'pry'
+gem 'rdoc'
+gem 'rspec'
+gem 'rubocop'
+gem 'solargraph'
+gem 'colorize'
